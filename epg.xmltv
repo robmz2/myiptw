@@ -1,0 +1,6 @@
+ <?xml version="1.0" encoding="utf-8" ?>
+    <tv>
+      <channel id="id1">
+          <display-name lang="it">SkyUNO</display-name>
+      </channel>
+    </tv>

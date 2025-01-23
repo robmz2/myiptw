@@ -2,6 +2,6 @@
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTINF:-1 tvg-id="id1" tvg-name="SKYUNO" tvg-chno="1" group-title="Group 1",SKYUNO
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 https://webhdrunns.mizhls.ru/lb/premium881/index.m3u8
+#EXTINF:-2 tvg-id="id2" tvg-name="SKYUNOS" tvg-chno="2" group-title="Group 1",SKYUNOS
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master_stereo.mpd?ck=eyIwMDM2MTBiODU1NjAwMDkzNmU0ODA2MWNkYjRlZTExYSI6IjJjZDZiY2MyMTYwYWE2ZWMwNDhlNWE1ZjdhMGY3M2M4In0%3D
